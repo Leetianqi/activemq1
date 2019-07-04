@@ -12,4 +12,5 @@ public class ActiveMqUtil {
             System.exit(1);
         }
     }
+    //test-git
 }
